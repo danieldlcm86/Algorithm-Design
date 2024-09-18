@@ -33,7 +33,7 @@ Este módulo se encargará del cálculo de los costos y logística de envío de 
 
 - El precio del **Super Patito de Goma 3000** es de **$84** y su peso es de **119 gramos**.
 - El precio del **Disfraz de Patito Programador** es de **$43** y su peso es de **77 gramos**.
-- El **peso máximo permitido** para enviar paquetes es de **1 kilogramo**.
+- El **peso máximo permitido por caja** es de **1 kilogramo**.
 - La paquetería ofrece un **13% de descuento** si el peso total del envío es de más de **3 kilogramos**.
 
 El sistema debe permitir:
