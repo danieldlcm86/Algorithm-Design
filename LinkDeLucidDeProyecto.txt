@@ -1,0 +1,5 @@
+Hola Daniel,
+En el siguiente link podrás encontrar los diagramas de flujo del proyecto. En caso de que esta no fuera la mejor manera, intentaré subir los diagramas como imagenes o archivos PDF en el repositorio.
+
+Link de lucid: https://lucid.app/lucidchart/d2e08591-e174-4cd5-b131-ad0396ed9b5e/edit?beaconFlowId=BFD2B3FEEE5C2680&invitationId=inv_0d197750-c2df-4109-8b7e-857ea659cea9&page=0_0#
+
